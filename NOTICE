@@ -5,8 +5,8 @@ This project contains modified code and instructions based on the following open
 
 1. anthropic/skills (Apache License 2.0)
    - Original work Copyright Anthropic, Inc.
-   - Modified files: SKILL.md
-   
+   - Modified files: skills/frontend-design/
+
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at:
 
 http://apache.org
